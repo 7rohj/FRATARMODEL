@@ -10,6 +10,7 @@ pyqt로 프로그램을 만들어보아요
 - cycle 횟수 사용자가 설정할 수 있게끔 수정
 - txt 파일로 저장 (matrix/fromto 선택)
 - pyinstaller 로 .exe 파일로 생성했을때 프롬프트가 켜졌다가 그냥 꺼짐
+- 500 * 500으로 돌리면 430초가 걸림..
 
 
 ![image](https://github.com/7rohj/FRATARMODEL/assets/99319638/4affe1fe-50c6-413e-b59e-f808992c851f)
