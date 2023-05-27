@@ -11,6 +11,7 @@ pyqt로 프로그램을 만들어보아요
 - txt 파일로 저장 (matrix/fromto 선택)
 - pyinstaller 로 .exe 파일로 생성했을때 프롬프트가 켜졌다가 그냥 꺼짐
 - 500 * 500으로 돌리면 430초가 걸림..
+- 생성된 exe 파일 용량이 너무큼 (환경변수를 아나콘다에서 순정 파이썬으로 수정)
 
 
 ![image](https://github.com/7rohj/FRATARMODEL/assets/99319638/4affe1fe-50c6-413e-b59e-f808992c851f)
