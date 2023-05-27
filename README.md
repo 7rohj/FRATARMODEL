@@ -2,6 +2,7 @@
 pyqt로 프로그램을 만들어보아요
 
 ### FRATARMODEL v.1.0 (중간점검)
+[로직코드 보러가기](https://github.com/7rohj/FRATARMODEL/blob/main/%ED%94%84%EB%9D%BC%ED%83%80%EB%82%B4%EB%B6%80%EC%BD%94%EB%93%9C%20230526.ipynb/) </br>
 `프라타모형이란? origin/ destination 에서 전체 유입유출량 부분을 수정했을때, 내부 발생량을 찾아서 계산하는 로직`
 
 #### 수정할 부분 검토 🤔
