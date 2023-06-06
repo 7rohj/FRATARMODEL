@@ -3,7 +3,7 @@ pyqt로 프로그램을 만들어보아요
 
 ### FRATARMODEL v.1.2 (중간점검)
 #### 수정한 부분
-![image](https://github.com/7rohj/FRATARMODEL/assets/99319638/4fe6f463-8dac-4548-9085-b204b8528286)
+![image](https://github.com/7rohj/FRATARMODEL/assets/99319638/ea78e50f-d926-489f-b9b4-88a1de23bc06)
 
 
 
