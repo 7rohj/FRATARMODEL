@@ -1,0 +1,22 @@
+{
+    "ShowLogs": true,
+    "QMainWindow": [
+        {
+            "tittle": "p"
+        }
+    ],
+    "QSettings": [
+        {
+            "ThemeSettings": [
+                {
+                    "CustomTheme": []
+                }
+            ],
+            "AppSettings": {
+                "OrginizationName": "p",
+                "ApplicationName": "p Company",
+                "OrginizationDormain": "p.org"
+            }
+        }
+    ]
+}
