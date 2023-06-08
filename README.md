@@ -33,4 +33,4 @@ pyinstaller -w -F main.py 하고 만들어진 .spec 부분 내용 수정 </br>
 
 ![image](https://github.com/7rohj/FRATARMODEL/assets/99319638/4affe1fe-50c6-413e-b59e-f808992c851f)
 
-파이썬 최고
+누군가에겐 내 코드가 도움이 되길 바라며 커밋
