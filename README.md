@@ -2,8 +2,19 @@
 pyqt로 프로그램을 만들어보아요
 
 ### FRATARMODEL v.1.2 (중간점검)
-#### 수정한 부분
-![image](https://github.com/7rohj/FRATARMODEL/assets/99319638/ea78e50f-d926-489f-b9b4-88a1de23bc06)
+#### 수정한 부분 및 공부한 부분 😎
+- `1. pandas 보다 numpy가 훨씬 빠르다. ` </br>
+pandas로는 500x500이 7분 소요 되었고(함수 2개, 15번 반복) numpy로는 10초 남짓 소요됨 </br>
+numpy에 빈칸 있으면 sum과 같은 함수 적용안됨 </br>
+numpy concat 할때는 size 같게 만들어줘야함.. </br>
+- `2. gui는 pyqt5 그리고 qtdesigner를 이용하기.`</br>
+코드로 front end를 일일이 짜는거 너무 힘듦.. </br>
+- `3. pyinstaller` </br>
+할때 .qrc 파일 .py 파일로 변환 </br>
+pyinstaller -w -F main.py 하고 만들어진 .spec 부분 내용 수정 </br>
+경로는 절대경로로 변경 </br>
+![image](https://github.com/7rohj/FRATARMODEL/assets/99319638/29b93782-0864-40a9-b9cb-9f14096f2ce6)
+
 
 
 
